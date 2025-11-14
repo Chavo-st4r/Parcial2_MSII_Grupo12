@@ -1,2 +1,2 @@
-def suma_colman(a, b):
+def suma(a, b):
     return a + b
