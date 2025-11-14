@@ -1,5 +1,5 @@
 #teststitest_multiplicar.py
-from funciones.multiplicarrodriguez import multiplicarrodriguez
+from funciones.multiplicarrodriguez import multiplicar
 def test_multiplicar_rodriguez():
- assert multiplicarrodriguez(3, 4) == 12
- assert multiplicarrodriguez(-2, 5) == -10
+ assert multiplicar(3, 4) == 12
+ assert multiplicar(-2, 5) == -10
