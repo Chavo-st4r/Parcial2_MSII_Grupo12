@@ -1,2 +1,2 @@
-def suma_gomez(a, b):
+def suma_colman(a, b):
     return a + b
