@@ -1,5 +1,5 @@
-from funciones.suma_colman import suma
+from funciones.suma_colman import sumar
 
-def test_suma():
-    assert suma(3, 5) == 8
-    assert suma(-2, 2) == 0
+def test_sumar():
+    assert sumar(3, 5) == 8
+    assert sumar(-2, 2) == 0
