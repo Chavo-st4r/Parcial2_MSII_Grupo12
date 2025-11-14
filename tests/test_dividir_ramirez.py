@@ -1,3 +1,4 @@
+#NULL
 from funciones.dividir_ramirez import dividir
 
 def test_dividir():
